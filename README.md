@@ -1,6 +1,6 @@
 # PCA: EXP-1 SUM ARRAY GPU
 
-<h3>NAME : A joans jay  authers  L</h3>
+<h3>NAME : A joans jay  authers  </h3>
 <h3>REGISTER NO: 212221240019 </h3>
 <h3>EX. NO : 1</h3>
 <h3>DATE : 06.03.24</h3>
